@@ -1,0 +1,279 @@
+Employee,Day,Hour,Role
+0,Monday,1,Expo
+0,Monday,2,Expo
+0,Monday,3,Expo
+0,Monday,4,Expo
+0,Monday,7,Cook
+0,Monday,8,Cook
+0,Monday,9,Cook
+0,Monday,10,Cook
+0,Monday,11,Cook
+0,Monday,12,Cook
+0,Tuesday,7,Cook
+0,Tuesday,8,Cook
+0,Tuesday,9,Cook
+0,Tuesday,10,Cook
+0,Tuesday,11,Cook
+0,Tuesday,12,Cook
+0,Wednesday,2,Expo
+0,Wednesday,3,Expo
+0,Wednesday,4,Expo
+0,Wednesday,5,Expo
+0,Wednesday,6,Expo
+0,Wednesday,7,Expo
+0,Wednesday,8,Expo
+0,Wednesday,9,Dishwasher
+0,Wednesday,10,Dishwasher
+0,Wednesday,11,Dishwasher
+0,Wednesday,12,Dishwasher
+0,Thursday,7,Cook
+0,Thursday,8,Cook
+0,Thursday,9,Cook
+0,Thursday,10,Cook
+0,Thursday,11,Cook
+0,Thursday,12,Cook
+0,Friday,6,Dishwasher
+0,Friday,7,Dishwasher
+0,Friday,8,Dishwasher
+0,Friday,9,Dishwasher
+0,Friday,10,Dishwasher
+0,Friday,11,Dishwasher
+0,Friday,12,Dishwasher
+1,Monday,2,Front Counter
+1,Monday,3,Front Counter
+1,Monday,4,Front Counter
+1,Monday,5,Front Counter
+1,Monday,6,Front Counter
+1,Monday,7,Front Counter
+1,Monday,8,Front Counter
+1,Tuesday,2,Front Counter
+1,Tuesday,3,Front Counter
+1,Tuesday,4,Front Counter
+1,Tuesday,5,Front Counter
+1,Tuesday,6,Front Counter
+1,Tuesday,7,Front Counter
+1,Tuesday,8,Front Counter
+1,Wednesday,1,Cook
+1,Wednesday,2,Cook
+1,Wednesday,3,Cook
+1,Wednesday,4,Cook
+1,Wednesday,5,Cook
+1,Wednesday,6,Cook
+1,Wednesday,7,Cook
+1,Wednesday,8,Cook
+1,Thursday,2,Front Counter
+1,Thursday,3,Front Counter
+1,Thursday,4,Front Counter
+1,Thursday,5,Front Counter
+1,Thursday,6,Front Counter
+1,Thursday,7,Front Counter
+1,Thursday,8,Front Counter
+1,Friday,2,Front Counter
+1,Friday,3,Front Counter
+1,Friday,4,Front Counter
+1,Friday,5,Front Counter
+1,Friday,6,Front Counter
+2,Monday,2,Dishwasher
+2,Monday,3,Dishwasher
+2,Monday,4,Dishwasher
+2,Monday,5,Dishwasher
+2,Thursday,2,Dishwasher
+2,Thursday,3,Dishwasher
+2,Thursday,4,Dishwasher
+2,Thursday,5,Dishwasher
+2,Friday,2,Dishwasher
+2,Friday,3,Dishwasher
+2,Friday,4,Dishwasher
+2,Friday,5,Dishwasher
+3,Monday,9,Dishwasher
+3,Monday,10,Dishwasher
+3,Monday,11,Dishwasher
+3,Monday,12,Dishwasher
+3,Tuesday,9,Dishwasher
+3,Tuesday,10,Dishwasher
+3,Tuesday,11,Dishwasher
+3,Tuesday,12,Dishwasher
+3,Wednesday,9,Cook
+3,Wednesday,10,Cook
+3,Wednesday,11,Cook
+3,Wednesday,12,Cook
+3,Thursday,9,Cook
+3,Thursday,10,Cook
+3,Thursday,11,Cook
+3,Thursday,12,Cook
+4,Tuesday,9,Cook
+4,Tuesday,10,Cook
+4,Tuesday,11,Cook
+4,Tuesday,12,Cook
+5,Tuesday,9,Front Counter
+5,Tuesday,10,Front Counter
+5,Tuesday,11,Front Counter
+5,Tuesday,12,Front Counter
+6,Monday,9,Expo
+6,Monday,10,Expo
+6,Monday,11,Expo
+6,Monday,12,Expo
+6,Tuesday,9,Expo
+6,Tuesday,10,Expo
+6,Tuesday,11,Expo
+6,Tuesday,12,Expo
+6,Thursday,9,Expo
+6,Thursday,10,Expo
+6,Thursday,11,Expo
+6,Thursday,12,Expo
+6,Friday,9,Expo
+6,Friday,10,Expo
+6,Friday,11,Expo
+6,Friday,12,Expo
+7,Wednesday,9,Expo
+7,Wednesday,10,Expo
+7,Wednesday,11,Expo
+7,Wednesday,12,Expo
+7,Thursday,9,Dishwasher
+7,Thursday,10,Dishwasher
+7,Thursday,11,Dishwasher
+7,Thursday,12,Dishwasher
+7,Friday,9,Expo
+7,Friday,10,Expo
+7,Friday,11,Expo
+7,Friday,12,Expo
+8,Tuesday,2,Dishwasher
+8,Tuesday,3,Dishwasher
+8,Tuesday,4,Dishwasher
+8,Tuesday,5,Dishwasher
+8,Wednesday,2,Dishwasher
+8,Wednesday,3,Dishwasher
+8,Wednesday,4,Dishwasher
+8,Wednesday,5,Dishwasher
+9,Monday,1,Cook
+9,Monday,2,Cook
+9,Monday,3,Cook
+9,Monday,4,Cook
+9,Monday,5,Cook
+9,Monday,6,Cook
+9,Tuesday,1,Cook
+9,Tuesday,2,Cook
+9,Tuesday,3,Cook
+9,Tuesday,4,Cook
+9,Tuesday,5,Cook
+9,Tuesday,6,Cook
+9,Wednesday,9,Cook
+9,Wednesday,10,Cook
+9,Wednesday,11,Cook
+9,Wednesday,12,Cook
+9,Thursday,1,Cook
+9,Thursday,2,Cook
+9,Thursday,3,Cook
+9,Thursday,4,Cook
+9,Thursday,5,Cook
+9,Thursday,6,Cook
+9,Friday,1,Cook
+9,Friday,2,Cook
+9,Friday,3,Cook
+9,Friday,4,Cook
+9,Friday,5,Cook
+9,Friday,6,Cook
+10,Monday,2,Runner
+10,Monday,3,Runner
+10,Monday,4,Runner
+10,Monday,5,Runner
+10,Monday,9,Front Counter
+10,Monday,10,Front Counter
+10,Monday,11,Front Counter
+10,Monday,12,Front Counter
+10,Tuesday,2,Expo
+10,Tuesday,3,Expo
+10,Tuesday,4,Expo
+10,Tuesday,5,Expo
+10,Tuesday,6,Expo
+10,Tuesday,7,Expo
+10,Tuesday,8,Expo
+10,Wednesday,2,Runner
+10,Wednesday,3,Runner
+10,Wednesday,4,Runner
+10,Wednesday,5,Runner
+10,Wednesday,6,Front Counter
+10,Wednesday,7,Front Counter
+10,Wednesday,8,Front Counter
+10,Wednesday,9,Front Counter
+10,Wednesday,10,Front Counter
+10,Wednesday,11,Front Counter
+10,Wednesday,12,Front Counter
+10,Thursday,9,Front Counter
+10,Thursday,10,Front Counter
+10,Thursday,11,Front Counter
+10,Thursday,12,Front Counter
+10,Friday,2,Runner
+10,Friday,3,Runner
+10,Friday,4,Runner
+10,Friday,5,Runner
+10,Friday,7,Front Counter
+10,Friday,8,Front Counter
+10,Friday,9,Front Counter
+10,Friday,10,Front Counter
+10,Friday,11,Front Counter
+10,Friday,12,Front Counter
+11,Monday,9,Cook
+11,Monday,10,Cook
+11,Monday,11,Cook
+11,Monday,12,Cook
+11,Tuesday,2,Runner
+11,Tuesday,3,Runner
+11,Tuesday,4,Runner
+11,Tuesday,5,Runner
+11,Thursday,2,Runner
+11,Thursday,3,Runner
+11,Thursday,4,Runner
+11,Thursday,5,Runner
+11,Thursday,9,Runner
+11,Thursday,10,Runner
+11,Thursday,11,Runner
+11,Thursday,12,Runner
+11,Friday,2,Expo
+11,Friday,3,Expo
+11,Friday,4,Expo
+11,Friday,5,Expo
+11,Friday,6,Expo
+11,Friday,7,Expo
+11,Friday,8,Expo
+11,Friday,9,Runner
+11,Friday,10,Runner
+11,Friday,11,Runner
+11,Friday,12,Runner
+12,Monday,5,Expo
+12,Monday,6,Expo
+12,Monday,7,Expo
+12,Monday,8,Expo
+12,Monday,9,Runner
+12,Monday,10,Runner
+12,Monday,11,Runner
+12,Monday,12,Runner
+12,Tuesday,9,Runner
+12,Tuesday,10,Runner
+12,Tuesday,11,Runner
+12,Tuesday,12,Runner
+12,Wednesday,2,Front Counter
+12,Wednesday,3,Front Counter
+12,Wednesday,4,Front Counter
+12,Wednesday,5,Front Counter
+12,Wednesday,9,Runner
+12,Wednesday,10,Runner
+12,Wednesday,11,Runner
+12,Wednesday,12,Runner
+12,Thursday,2,Expo
+12,Thursday,3,Expo
+12,Thursday,4,Expo
+12,Thursday,5,Expo
+12,Thursday,6,Expo
+12,Thursday,7,Expo
+12,Thursday,8,Expo
+12,Friday,7,Cook
+12,Friday,8,Cook
+12,Friday,9,Cook
+12,Friday,10,Cook
+12,Friday,11,Cook
+12,Friday,12,Cook
+13,Friday,9,Cook
+13,Friday,10,Cook
+13,Friday,11,Cook
+13,Friday,12,Cook
